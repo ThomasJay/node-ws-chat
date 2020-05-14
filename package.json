@@ -1,0 +1,22 @@
+{
+  "name": "ws-chat",
+  "version": "1.0.0",
+  "description": "Node Web Socket chat server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasJay/node-ws-chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasJay/node-ws-chat/issues"
+  },
+  "homepage": "https://github.com/ThomasJay/node-ws-chat#readme",
+  "dependencies": {
+    "ws": "^7.3.0"
+  }
+}
